@@ -118,6 +118,7 @@ Existing:
 
  * business dashboards 
  * [Google Now](http://www.google.com/landing/now/)
+ * [Obsidian](https://obsidian.md/)
  
  
 ## 6. Community Idea: Ethical Me
